@@ -1,1 +1,0 @@
-define({  "name": "设备管理API接口",  "version": "0.0.0",  "description": "这是设备管理API接口",  "title": "标题-设备管理API接口",  "url": "https://locahost:8888",  "sampleUrl": false,  "defaultVersion": "0.0.0",  "apidoc": "0.3.0",  "generator": {    "name": "apidoc",    "time": "2019-07-02T01:34:18.281Z",    "url": "http://apidocjs.com",    "version": "0.17.7"  }});

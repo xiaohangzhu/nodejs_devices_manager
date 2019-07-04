@@ -18,6 +18,6 @@ app.use('/devices', devicesRouter)
 app.use('/swagger_ui', express.static(path.join(__dirname, 'swagger_ui')));
 
 //开启服务
-app.listen(8888, () => {
+app.listen(8080, () => {
     console.log("devicesManage server start")
 })
